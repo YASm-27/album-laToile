@@ -1,0 +1,16 @@
+body{
+h1{
+    font-family:Poppins;
+    color:blue;
+}
+
+p{
+    text-align: justify;
+}
+
+contenu {
+    width: 600px;
+    margin-left: auto;
+    margin-right: 50px;
+}
+}
